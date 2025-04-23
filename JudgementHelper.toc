@@ -1,0 +1,17 @@
+## Interface: 11200
+## Title: JudgementHelper
+## Notes: Smart Seal/Judgement logic
+## Version: 1.0.0
+## Author: You
+
+# main
+main.lua
+
+# utilities
+utilities\utilities.lua
+
+# functions
+functions\judgement.lua
+
+# slashCommands
+registerSlashCommands.lua
